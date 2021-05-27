@@ -17,6 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger('main')
 
 RUN_INTERVAL = timedelta(minutes=10)
+SIM_QUERY = 5
 DATABASE = 'habr_data_asinc'
 HAB_TABLE = 'habr_habs'
 POST_TABLE = 'posts'
@@ -36,7 +37,7 @@ def main_asinc_parser():
     for hab in HABS_PARSING:
         logger.info(f'scrapping {hab}')
         asinc_parsing_main_page_hab(database_name=DATABASE, post_table_name=POST_TABLE,
-                                    hab_table_name=HAB_TABLE, hab_name=hab, parallel_query=5)
+                                    hab_table_name=HAB_TABLE, hab_name=hab, parallel_query=SIM_QUERY)
     clear()
 
 
