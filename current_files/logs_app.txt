@@ -1,0 +1,289 @@
+2021-05-27 09:52:00,122 - [INFO] - main - (main.py).main_asinc_parser(31) - start parsing posts from main page (by some habs)
+2021-05-27 09:52:00,122 - [INFO] - main - (main.py).main_asinc_parser(36) - scrapping Научно-популярное
+2021-05-27 09:52:03,768 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:03,783 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559380.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559380.json'
+2021-05-27 09:52:03,783 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559380/ --> False
+2021-05-27 09:52:03,783 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559232.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559232.json'
+2021-05-27 09:52:03,783 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559232/ --> False
+2021-05-27 09:52:03,783 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559098.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559098.json'
+2021-05-27 09:52:03,783 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559098/ --> False
+2021-05-27 09:52:03,783 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559140.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559140.json'
+2021-05-27 09:52:03,783 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559140/ --> False
+2021-05-27 09:52:03,783 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559286.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559286.json'
+2021-05-27 09:52:03,783 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559286/ --> False
+2021-05-27 09:52:04,477 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:04,480 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559282.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559282.json'
+2021-05-27 09:52:04,480 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559282/ --> False
+2021-05-27 09:52:04,481 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558322.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558322.json'
+2021-05-27 09:52:04,481 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558322/ --> False
+2021-05-27 09:52:04,482 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_555824.json
+[Errno 2] No such file or directory: 'current_files/curr_post_555824.json'
+2021-05-27 09:52:04,482 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/555824/ --> False
+2021-05-27 09:52:04,482 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558804.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558804.json'
+2021-05-27 09:52:04,483 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558804/ --> False
+2021-05-27 09:52:04,483 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559090.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559090.json'
+2021-05-27 09:52:04,483 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559090/ --> False
+2021-05-27 09:52:05,388 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:05,388 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558374.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558374.json'
+2021-05-27 09:52:05,388 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558374/ --> False
+2021-05-27 09:52:05,388 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559034.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559034.json'
+2021-05-27 09:52:05,388 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559034/ --> False
+2021-05-27 09:52:05,388 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558950.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558950.json'
+2021-05-27 09:52:05,388 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558950/ --> False
+2021-05-27 09:52:05,388 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558944.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558944.json'
+2021-05-27 09:52:05,388 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558944/ --> False
+2021-05-27 09:52:05,388 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558800.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558800.json'
+2021-05-27 09:52:05,388 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558800/ --> False
+2021-05-27 09:52:06,533 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:06,535 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558938.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558938.json'
+2021-05-27 09:52:06,535 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558938/ --> False
+2021-05-27 09:52:06,535 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558788.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558788.json'
+2021-05-27 09:52:06,535 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558788/ --> False
+2021-05-27 09:52:06,535 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_557596.json
+[Errno 2] No such file or directory: 'current_files/curr_post_557596.json'
+2021-05-27 09:52:06,535 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/557596/ --> False
+2021-05-27 09:52:06,535 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558884.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558884.json'
+2021-05-27 09:52:06,535 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558884/ --> False
+2021-05-27 09:52:06,535 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558878.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558878.json'
+2021-05-27 09:52:06,535 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558878/ --> False
+2021-05-27 09:52:06,535 - [INFO] - main - (main.py).main_asinc_parser(36) - scrapping Программирование
+2021-05-27 09:52:08,332 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:08,332 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559296.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559296.json'
+2021-05-27 09:52:08,332 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559296/ --> False
+2021-05-27 09:52:08,332 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559356.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559356.json'
+2021-05-27 09:52:08,332 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559356/ --> False
+2021-05-27 09:52:08,332 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559352.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559352.json'
+2021-05-27 09:52:08,332 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559352/ --> False
+2021-05-27 09:52:08,332 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559106.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559106.json'
+2021-05-27 09:52:08,332 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559106/ --> False
+2021-05-27 09:52:08,332 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559312.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559312.json'
+2021-05-27 09:52:08,332 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559312/ --> False
+2021-05-27 09:52:08,861 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:08,861 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559130.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559130.json'
+2021-05-27 09:52:08,861 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559130/ --> False
+2021-05-27 09:52:08,861 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559136.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559136.json'
+2021-05-27 09:52:08,861 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559136/ --> False
+2021-05-27 09:52:08,861 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559326.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559326.json'
+2021-05-27 09:52:08,861 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559326/ --> False
+2021-05-27 09:52:08,861 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559298.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559298.json'
+2021-05-27 09:52:08,861 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559298/ --> False
+2021-05-27 09:52:08,869 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559236.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559236.json'
+2021-05-27 09:52:08,869 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559236/ --> False
+2021-05-27 09:52:09,412 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:09,412 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558672.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558672.json'
+2021-05-27 09:52:09,412 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558672/ --> False
+2021-05-27 09:52:09,412 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559210.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559210.json'
+2021-05-27 09:52:09,412 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559210/ --> False
+2021-05-27 09:52:09,412 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559176.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559176.json'
+2021-05-27 09:52:09,412 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559176/ --> False
+2021-05-27 09:52:09,412 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559110.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559110.json'
+2021-05-27 09:52:09,412 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559110/ --> False
+2021-05-27 09:52:09,412 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559094.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559094.json'
+2021-05-27 09:52:09,412 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559094/ --> False
+2021-05-27 09:52:09,913 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:09,929 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558448.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558448.json'
+2021-05-27 09:52:09,929 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558448/ --> False
+2021-05-27 09:52:09,929 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559088.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559088.json'
+2021-05-27 09:52:09,929 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559088/ --> False
+2021-05-27 09:52:09,929 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559066.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559066.json'
+2021-05-27 09:52:09,929 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559066/ --> False
+2021-05-27 09:52:09,929 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558902.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558902.json'
+2021-05-27 09:52:09,929 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558902/ --> False
+2021-05-27 09:52:09,929 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558992.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558992.json'
+2021-05-27 09:52:09,929 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558992/ --> False
+2021-05-27 09:52:09,929 - [INFO] - main - (main.py).main_asinc_parser(36) - scrapping Информационная безопасность
+2021-05-27 09:52:11,507 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:11,511 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559406.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559406.json'
+2021-05-27 09:52:11,511 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559406/ --> False
+2021-05-27 09:52:11,512 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559232.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559232.json'
+2021-05-27 09:52:11,513 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559232/ --> False
+2021-05-27 09:52:11,513 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559208.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559208.json'
+2021-05-27 09:52:11,514 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559208/ --> False
+2021-05-27 09:52:11,515 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559326.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559326.json'
+2021-05-27 09:52:11,515 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559326/ --> False
+2021-05-27 09:52:11,516 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_557270.json
+[Errno 2] No such file or directory: 'current_files/curr_post_557270.json'
+2021-05-27 09:52:11,516 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/557270/ --> False
+2021-05-27 09:52:12,102 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:12,102 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558672.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558672.json'
+2021-05-27 09:52:12,102 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558672/ --> False
+2021-05-27 09:52:12,102 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559148.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559148.json'
+2021-05-27 09:52:12,102 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559148/ --> False
+2021-05-27 09:52:12,102 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559118.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559118.json'
+2021-05-27 09:52:12,102 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559118/ --> False
+2021-05-27 09:52:12,102 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_559054.json
+[Errno 2] No such file or directory: 'current_files/curr_post_559054.json'
+2021-05-27 09:52:12,102 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559054/ --> False
+2021-05-27 09:52:12,102 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558994.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558994.json'
+2021-05-27 09:52:12,102 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558994/ --> False
+2021-05-27 09:52:12,889 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:12,905 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558954.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558954.json'
+2021-05-27 09:52:12,905 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558954/ --> False
+2021-05-27 09:52:12,905 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558916.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558916.json'
+2021-05-27 09:52:12,905 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558916/ --> False
+2021-05-27 09:52:12,905 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558220.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558220.json'
+2021-05-27 09:52:12,905 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558220/ --> False
+2021-05-27 09:52:12,905 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558852.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558852.json'
+2021-05-27 09:52:12,905 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558852/ --> False
+2021-05-27 09:52:12,905 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558606.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558606.json'
+2021-05-27 09:52:12,905 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558606/ --> False
+2021-05-27 09:52:13,512 - [CRITICAL] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(56) - Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+2021-05-27 09:52:13,528 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_557768.json
+[Errno 2] No such file or directory: 'current_files/curr_post_557768.json'
+2021-05-27 09:52:13,528 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/557768/ --> False
+2021-05-27 09:52:13,528 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558678.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558678.json'
+2021-05-27 09:52:13,528 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558678/ --> False
+2021-05-27 09:52:13,528 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558614.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558614.json'
+2021-05-27 09:52:13,528 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558614/ --> False
+2021-05-27 09:52:13,528 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558608.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558608.json'
+2021-05-27 09:52:13,528 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558608/ --> False
+2021-05-27 09:52:13,528 - [ERROR] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(75) - Error load json: current_files/curr_post_558604.json
+[Errno 2] No such file or directory: 'current_files/curr_post_558604.json'
+2021-05-27 09:52:13,528 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558604/ --> False
+2021-05-27 09:52:15,266 - [INFO] - timeloop - (app.py).start(60) - Starting Timeloop..
+2021-05-27 09:52:15,266 - [INFO] - timeloop - (app.py)._start_jobs(42) - Registered job <function run_with_timeloops at 0x0000028A3743C280>
+2021-05-27 09:52:15,266 - [INFO] - timeloop - (app.py).start(63) - Timeloop now started. Jobs will run based on the interval set
+2021-05-27 10:18:55,441 - [INFO] - main - (main.py).main_asinc_parser(31) - start parsing posts from main page (by some habs)
+2021-05-27 10:18:55,457 - [INFO] - main - (main.py).main_asinc_parser(36) - scrapping Научно-популярное
+2021-05-27 10:19:01,442 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559380/ --> True
+2021-05-27 10:19:01,458 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559232/ --> True
+2021-05-27 10:19:01,805 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559098/ --> True
+2021-05-27 10:19:01,843 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559140/ --> True
+2021-05-27 10:19:01,905 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559286/ --> True
+2021-05-27 10:19:07,004 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559282/ --> True
+2021-05-27 10:19:07,057 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558322/ --> True
+2021-05-27 10:19:07,073 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/555824/ --> True
+2021-05-27 10:19:07,104 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558804/ --> True
+2021-05-27 10:19:07,120 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559090/ --> True
+2021-05-27 10:19:12,288 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558374/ --> True
+2021-05-27 10:19:12,357 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559034/ --> True
+2021-05-27 10:19:12,388 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558950/ --> True
+2021-05-27 10:19:12,404 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558944/ --> True
+2021-05-27 10:19:12,435 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558800/ --> True
+2021-05-27 10:19:18,002 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558938/ --> True
+2021-05-27 10:19:18,034 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558788/ --> True
+2021-05-27 10:19:18,081 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/557596/ --> True
+2021-05-27 10:19:18,118 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558884/ --> True
+2021-05-27 10:19:18,134 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558878/ --> True
+2021-05-27 10:19:18,999 - [INFO] - main - (main.py).main_asinc_parser(36) - scrapping Программирование
+2021-05-27 10:19:24,164 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559454/ --> True
+2021-05-27 10:19:24,220 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559296/ --> True
+2021-05-27 10:19:24,261 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559356/ --> True
+2021-05-27 10:19:24,322 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559352/ --> True
+2021-05-27 10:19:24,534 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559106/ --> True
+2021-05-27 10:19:32,064 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559312/ --> True
+2021-05-27 10:19:32,086 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559130/ --> True
+2021-05-27 10:19:32,202 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559136/ --> True
+2021-05-27 10:19:32,218 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559326/ --> True
+2021-05-27 10:19:32,486 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559298/ --> True
+2021-05-27 10:19:38,524 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559236/ --> True
+2021-05-27 10:19:38,683 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558672/ --> True
+2021-05-27 10:19:39,834 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559210/ --> True
+2021-05-27 10:19:39,935 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559176/ --> True
+2021-05-27 10:19:40,066 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559110/ --> True
+2021-05-27 10:19:47,479 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559094/ --> True
+2021-05-27 10:19:47,557 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558448/ --> True
+2021-05-27 10:19:47,580 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559088/ --> True
+2021-05-27 10:19:47,602 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559066/ --> True
+2021-05-27 10:19:47,625 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558902/ --> True
+2021-05-27 10:19:49,057 - [INFO] - main - (main.py).main_asinc_parser(36) - scrapping Информационная безопасность
+2021-05-27 10:19:54,255 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559406/ --> True
+2021-05-27 10:19:54,286 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559232/ --> True
+2021-05-27 10:19:54,557 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559208/ --> True
+2021-05-27 10:19:54,605 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559326/ --> True
+2021-05-27 10:19:54,660 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/557270/ --> True
+2021-05-27 10:20:00,254 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558672/ --> True
+2021-05-27 10:20:00,285 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559148/ --> True
+2021-05-27 10:20:00,338 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559118/ --> True
+2021-05-27 10:20:00,385 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559054/ --> True
+2021-05-27 10:20:00,439 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558994/ --> True
+2021-05-27 10:20:09,544 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558954/ --> True
+2021-05-27 10:20:09,560 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558916/ --> True
+2021-05-27 10:20:09,607 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558220/ --> True
+2021-05-27 10:20:09,668 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558852/ --> True
+2021-05-27 10:20:09,699 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558606/ --> True
+2021-05-27 10:20:16,702 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/557768/ --> True
+2021-05-27 10:20:16,733 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558678/ --> True
+2021-05-27 10:20:16,755 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558614/ --> True
+2021-05-27 10:20:16,771 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558608/ --> True
+2021-05-27 10:20:16,786 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558604/ --> True
+2021-05-27 10:20:17,943 - [INFO] - timeloop - (app.py).start(60) - Starting Timeloop..
+2021-05-27 10:20:17,943 - [INFO] - timeloop - (app.py)._start_jobs(42) - Registered job <function run_with_timeloops at 0x0000024311E9E9D0>
+2021-05-27 10:20:17,943 - [INFO] - timeloop - (app.py).start(63) - Timeloop now started. Jobs will run based on the interval set
+2021-05-27 11:30:17,138 - [INFO] - main - (main.py).main_asinc_parser(31) - start parsing posts from main page (by some habs)
+2021-05-27 11:30:17,196 - [INFO] - main - (main.py).main_asinc_parser(36) - scrapping Научно-популярное
+2021-05-27 11:30:26,832 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559380/ --> True
+2021-05-27 11:30:26,881 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559232/ --> True
+2021-05-27 11:30:26,996 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559098/ --> True
+2021-05-27 11:30:27,020 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559140/ --> True
+2021-05-27 11:30:27,108 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559286/ --> True
+2021-05-27 11:30:33,820 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559282/ --> True
+2021-05-27 11:30:36,198 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558322/ --> True
+2021-05-27 11:30:36,224 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/555824/ --> True
+2021-05-27 11:30:36,250 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558804/ --> True
+2021-05-27 11:30:36,320 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559090/ --> True
+2021-05-27 11:30:43,371 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558374/ --> True
+2021-05-27 11:30:43,441 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/559034/ --> True
+2021-05-27 11:30:43,504 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558950/ --> True
+2021-05-27 11:30:43,570 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558944/ --> True
+2021-05-27 11:30:43,621 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558800/ --> True
+2021-05-27 11:30:50,027 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558938/ --> True
+2021-05-27 11:30:50,097 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558788/ --> True
+2021-05-27 11:30:50,141 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/557596/ --> True
+2021-05-27 11:30:50,331 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558884/ --> True
+2021-05-27 11:30:50,487 - [INFO] - posts_scrapping - (posts_parsing.py).asinc_parsing_posts(78) - https://habr.com/ru/post/558878/ --> True
+2021-05-27 11:30:54,321 - [INFO] - main - (main.py).main_asinc_parser(36) - scrapping Программирование

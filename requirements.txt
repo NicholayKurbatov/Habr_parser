@@ -1,0 +1,9 @@
+asyncio~=3.4.3
+bs4~=0.0.1
+beautifulsoup4~=4.9.3
+aiohttp~=3.7.4.post0
+requests~=2.25.1
+tqdm~=4.61.0
+timeloop~=1.0.2
+DateTime~=4.3
+html5lib~=1.1
