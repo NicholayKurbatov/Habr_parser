@@ -20,6 +20,9 @@ RUN_INTERVAL = timedelta(minutes=10)
 DATABASE = 'habr_data_asinc'
 HAB_TABLE = 'habr_habs'
 POST_TABLE = 'posts'
+HABS_PARSING = ['Научно-популярное',
+                'Программирование',
+                'Информационная безопасность']
 
 get_habs_info(database_name=DATABASE, hab_table_name=HAB_TABLE)
 
@@ -28,11 +31,9 @@ clear = lambda: os.system('cls')
 
 
 def main_asinc_parser():
+    global HABS_PARSING
     logger.info('start parsing posts from main page (by some habs)')
-    habs = ['Научно-популярное',
-            'Программирование',
-            'Информационная безопасность']
-    for hab in habs:
+    for hab in HABS_PARSING:
         logger.info(f'scrapping {hab}')
         asinc_parsing_main_page_hab(database_name=DATABASE, post_table_name=POST_TABLE,
                                     hab_table_name=HAB_TABLE, hab_name=hab, parallel_query=5)
